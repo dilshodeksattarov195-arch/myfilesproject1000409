@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "sessionverify",
+        "uuid": 1862177,
+        "checksum": "i3dmi"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
